@@ -1,1 +1,1 @@
-<iframe src="https://shogunone.w3spaces.com/"></iframe>
+<iframe src="https://shogunone.w3spaces.com"></iframe>
